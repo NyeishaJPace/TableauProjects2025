@@ -10,7 +10,7 @@ The analysis was guided by the following key questions and resulted in the insig
 
 ### Content Performance & Trends:
 1. What is the distribution of content types on Netflix?
-- Insight: Netflix’s library is heavily skewed towards movies, with 6,131 movies compared to 2,666 TV shows.
+- Insight: Netflix’s library is heavily skewed towards movies, with **6,131 movies** compared to **2,666 TV shows**.
 2. Which countries produce the most Netflix content?
 - Insight: The United States is the leading producer of Netflix content, followed by India, United Kingdom, Canada, and France.
 3. How has Netflix's content library grown over time?
