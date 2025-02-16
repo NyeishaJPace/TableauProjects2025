@@ -8,7 +8,7 @@ The dashboard allows users to interactively filter data by content type (Movies 
 ## Key Insights
 The analysis was guided by the following key questions and resulted in the insights below:
 
-Content Performance & Trends:
+# Content Performance & Trends:
 1. What is the distribution of content types on Netflix?
 - Insight: Netflix’s library is heavily skewed towards movies, with 6,131 movies compared to 2,666 TV shows.
 2. Which countries produce the most Netflix content?
@@ -17,7 +17,8 @@ Content Performance & Trends:
 - Insight: Netflix’s content additions began rising in 2013 and peaked between 2013 and 2019, reflecting the platform’s aggressive push for original and global content during this period.
 4. What are the most common genres on Netflix?
 - Insight: International Movies is the most common genre, followed by Dramas, Comedies, International TV Shows, and Action & Adventure.
-Audience & Content Strategy:
+  
+# Audience & Content Strategy:
 5. Which directors and actors appear most frequently on Netflix?
 - Top Director: Rajiv Chilaka is the most frequently featured director on Netflix. Other notable directors in the top 10 include Jan Suter, Raúl Campos, Marcus Raboy, Suhas Kadav, Jay Karas, Cathy Garcia-Molina, Jay Chapman, Martin Scorsese, and Youssef Chahine.
 - Top Actor: Anupam Kher is the most frequently featured actor. Other notable actors in the top 10 include Shah Rukh Khan, Julie Tejwani, Naseeruddin Shah, Takahiro Sakurai, Rupa Bhimani, Akshay Kumar, Om Puri, Yuki Kaji, and Amitabh Bachchan.
