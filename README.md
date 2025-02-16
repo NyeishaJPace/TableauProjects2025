@@ -28,6 +28,8 @@ The analysis was guided by the following key questions and resulted in the insig
 - `netflix_titles.csv` - Dataset used in this project
 - `NetflixDashboardImg.png` - Image of the Dashboard
 
+## Link to Dataset Resource:
+[Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 ## How to Open
 1. Download the `.twbx` file.
 2. Open it in Tableau Desktop or Tableau Public.
