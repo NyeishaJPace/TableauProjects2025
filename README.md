@@ -1,4 +1,4 @@
-# TableauProjects2025 - Netflix Analysis Dashboard
+# Netflix Analysis Dashboard
 
 ## Overview
 This dashboard provides a comprehensive analysis of Netflix's content library, focusing on content trends, performance, and production patterns. The purpose of this analysis is to better understand Netflix's content strategy by exploring the distribution of content types, identifying top-producing countries, tracking the growth of the content library over time, analyzing common genres, and highlighting the most frequently featured directors and actors.
