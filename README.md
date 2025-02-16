@@ -12,11 +12,11 @@ The analysis was guided by the following key questions and resulted in the insig
 1. What is the distribution of content types on Netflix?
 - Insight: Netflix’s library is heavily skewed towards movies, with **6,131 movies** compared to **2,666 TV shows**.
 2. Which countries produce the most Netflix content?
-- Insight: The United States is the leading producer of Netflix content, followed by India, United Kingdom, Canada, and France.
+- Insight: The **United States** is the leading producer of Netflix content, followed by **India, United Kingdom, Canada**, and **France**.
 3. How has Netflix's content library grown over time?
-- Insight: Netflix’s content additions began rising in 2013 and peaked between 2013 and 2019, reflecting the platform’s aggressive push for original and global content during this period.
+- Insight: Netflix’s content additions began rising in **2013** and peaked between **2013 and 2019**, reflecting the platform’s aggressive push for original and global content during this period.
 4. What are the most common genres on Netflix?
-- Insight: International Movies is the most common genre, followed by Dramas, Comedies, International TV Shows, and Action & Adventure.
+- Insight: **International Movies** is the most common genre, followed by **Dramas, Comedies, International TV Shows**, and **Action & Adventure**.
   
 ### Audience & Content Strategy:
 5. Which directors and actors appear most frequently on Netflix?
